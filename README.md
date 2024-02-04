@@ -20,6 +20,7 @@ Navigate to postman, under Body choose raw and set request data in json format a
  "x": 20,
  "y": 10
 }
+
 Send  a post request
 
 Your response will be as follows
