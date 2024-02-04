@@ -22,7 +22,7 @@ Complete urls will look something like this
  NB: request should be in post, web pages will not load, use post man or specialised app
 
 
-Navigate to postman, under Body choose raw and set request data in json format as follows
+Navigate to postman, under Body choose raw and set request data in json format as follows, while using "add/" end point
 
 	{
 	 "x": 20,
