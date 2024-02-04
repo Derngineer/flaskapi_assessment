@@ -19,6 +19,8 @@ Complete urls will look something like this
 	https://flaskttest.azurewebsites.net/add/
 	https://flaskttest.azurewebsites.net/subtract/
 
+ NB: request should be in post, web pages will not load, use post man or specialised app
+
 
 Navigate to postman, under Body choose raw and set request data in json format as follows
 
