@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bef979da-c216-4195-ac6e-339c31615743/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/flaskttest",
+    "appService.deploySubpath": "."
+}
