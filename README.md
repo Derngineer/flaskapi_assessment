@@ -11,13 +11,13 @@ The app runs basic addition and subtraction operations for two variable x and y
 Recommend using postman to send request in json format
 Pick url endpoint:
 
-	Add - ‘add/’
-	Subtract -’subtract/’
+	Add - ‘add’
+	Subtract -’subtract’
 
 Complete urls will look something like this
 
-	https://flaskttest.azurewebsites.net/add/
-	https://flaskttest.azurewebsites.net/subtract/
+	https://flaskttest.azurewebsites.net/add
+	https://flaskttest.azurewebsites.net/subtract
 
  NB: request should be in post, web pages will not load, use post man or specialised app
 
